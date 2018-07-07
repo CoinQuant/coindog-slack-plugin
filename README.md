@@ -1,0 +1,1 @@
+# coindog-slack-plugin
